@@ -1,0 +1,66 @@
+body {
+    max-width: 100vw;
+    max-height: 100vh;
+    background-color: #fffaea;
+}
+
+.main-content {
+    text-align: center;
+    align-content: center;
+    padding-top: 5vh;
+}
+
+.poiret-one-main-title {
+  font-family: "Poiret One", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 75px;
+  margin: 0;
+}
+
+.poiret-one-name {
+    font-family: "Poiret One", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #fffaea;
+}
+
+.under-title {
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+}
+
+.title-name {
+    font-size: 17px;
+    padding-top: 0;
+    color: #fffaea;
+}
+
+.center-bar {
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #88431b;
+}
+
+.contact-text {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+hr {
+    border: none;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 3px;
+    max-width: 45vw;
+    background-color: #ac746c;
+}
+
+img {
+    max-width: 100vw;
+}
